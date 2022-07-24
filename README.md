@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pi-webdev
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning and create some simple WP projects =)
 
 <!---
 pi-webdev/pi-webdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
